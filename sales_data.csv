@@ -1,0 +1,14 @@
+transaction_id,product_id,product_name,category,region,sales_amount,transaction_date
+101,1,Laptop,Electronics,North America,1200.5,2024-11-01
+102,2,Smartphone,Electronics,Europe,799.99,2024-11-02
+103,3,Coffee Mug,Home,Asia,15.99,2024-11-02
+104,4,Teddybear,Toys,North America,25.0,2024-11-03
+105,5,Wireless Mouse,Electronics,Europe,29.99,2024-11-03
+106,6,Keyboard,Electronics,Asia,49.99,2024-11-04
+107,7,Data Enthusiast Mug,Home,North America,12.99,2024-11-05
+108,8,High-performance PC,Electronics,Europe,1500.0,2024-11-05
+109,9,Smart Watch,Electronics,Asia,199.99,2024-11-06
+110,10,Headphones,Electronics,North America,99.99,2024-11-06
+111,,Wireless Headset,Electronics,Europe,45.99,2024-11-07
+112,12,Mini Fridge,Home,Asia,150.0,2024-11-07
+113,10,Headphones,Electronics,North America,99.99,2024-11-07
